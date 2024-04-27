@@ -1,3 +1,4 @@
 # NAK Git Seminar
 
-Das hier ist eine neue Beschreibung.
+Das hier ist eine Beschreibung.
+dasdasdasdasdfsdfffdggfvfdfggfhfdg
